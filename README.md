@@ -6,7 +6,7 @@
 - [Tools & Technologies](#-tools--technologies)
 - [Data Cleaning & Preparation](#-data-cleaning--preparation)
 - [Key Insights](#-key-insights)
-- [Visualization]_(#-visualization).
+- [Visualization]_(#-visualization)
   
 ## 📊 Project Overview
 -This project focuses on transforming raw, multi-dimensional e-commerce data into a functional business intelligence tool. By merging customer demographics, product details, and store locations, the analysis uncovers critical trends in regional sales, inventory movement, and customer loyalty. The final dashboard provides actionable insights.
